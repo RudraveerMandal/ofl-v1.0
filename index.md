@@ -3,8 +3,8 @@
 ## Version 1.0, July 2022
 
  Copyright (C) Rudraveer Mandal
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed under the same name.
+ 
+ Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed under the same name.
 
 ### Preamble
 
