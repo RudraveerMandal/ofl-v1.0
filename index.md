@@ -105,7 +105,7 @@
 
     This code is free software; you can redistribute it and/or modify it under the terms of the Open and Fair License License as published by; either version 1.0 of the License, or (at your option) any later version.
 
-    This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the Open and Fair License for more details.
+    This code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the Open and Fair License for more details.
 
     You should have received a copy of the Open and Fair License along with this code.
   
@@ -116,6 +116,7 @@
   Yoyodyne, Inc., hereby disclaims all copyright interest in the program `Frob' (a library for tweaking knobs) written by James Random Hacker.
 
   <signature of Ty Coon>, 15 August 1947
+  
   Ty Coon, President of Vice
 
   That's all there is to it!
