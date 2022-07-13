@@ -40,9 +40,9 @@
 
   2. You may modify your copy or copies of the code or any portion of it, thus forming a work based on the code, and copy and distribute such modifications or work under the terms of Section 1 above, provided that you also meet both of these conditions:
 
-    a) You must cause the files modified to carry prominent notices stating that you changed the files and the date of any change.
+   a) You must cause the files modified to carry prominent notices stating that you changed the files and the date of any change.
 
-    b) You must buy the rights of the code from the original author at a negotiated price if you want to use that code in a software that will be commercialized.
+   b) You must buy the rights of the code from the original author at a negotiated price if you want to use that code in a software that will be commercialized.
 
   These requirements apply to the modified work as a whole.  If identifiable sections of that work are not derived from the code, and can be reasonably considered independent and separate works in themselves, then this License, and its terms, do not apply to those sections when you distribute them as separate works.  But when you distribute the same sections as part of a whole which is a work based on the code, the distribution of the whole must be on the terms of this License, whose permissions for other licensees extend to the entire whole, and thus to each and every part regardless of who wrote it.
 
@@ -54,17 +54,17 @@
 
   4. You must give prominent notice with each copy of the work that the code is used in it and that the code and its use are covered by this License.  You must supply a copy of this code.  If the work during execution displays copyright notices, you must include the copyright notice for other code among them, as well as a reference directing the user to the copy of this License.  Also, you must do one of these things:
 
-    a) Accompany the work with the complete corresponding machine-readable source code for the code including whatever changes were used in the work (which must be distributed under Sections 1 and 2 above); and, if the work is an executable linked with the Library, with the complete machine-readable "work that uses the Library", as object code and/or source code, so that the user can modify the Library and then relink to produce a modified executable containing the modified Library.  (It is understood that the user who changes the contents of definitions files in the Library will not necessarily be able to recompile the application to use the modified definitions.) Use a suitable shared library mechanism for linking with the Library.
+   a) Accompany the work with the complete corresponding machine-readable source code for the code including whatever changes were used in the work (which must be distributed under Sections 1 and 2 above); and, if the work is an executable linked with the Library, with the complete machine-readable "work that uses the Library", as object code and/or source code, so that the user can modify the Library and then relink to produce a modified executable containing the modified Library.  (It is understood that the user who changes the contents of definitions files in the Library will not necessarily be able to recompile the application to use the modified definitions.) Use a suitable shared library mechanism for linking with the Library.
 
-    b) A suitable mechanism is one that (1) uses at run time a copy of the code already present on the user's computer system, rather than copying code functions into the executable, and (2) will operate properly with a modified version of the code, if the user installs one, as long as the modified version is interface-compatible with the version that the work was made with.
+   b) A suitable mechanism is one that (1) uses at run time a copy of the code already present on the user's computer system, rather than copying code functions into the executable, and (2) will operate properly with a modified version of the code, if the user installs one, as long as the modified version is interface-compatible with the version that the work was made with.
 
   For an executable, the required form of the "work that uses the code" must include any data and utility programs needed for reproducing the executable from it.  However, as a special exception, the materials to be distributed need not include anything that is normally distributed (in either source or binary form) with the major components (compiler, kernel, and so on) of the operating system on which the executable runs, unless that component itself accompanies the executable.
 
   5. You may place library facilities that are a work based on the code side-by-side in a single library together with other library facilities not covered by this License, and distribute such a combined code, provided that the separate distribution of the work based on the Library and of the other library facilities is otherwise permitted, and provided that you do these two things:
 
-    a) Accompany the combined code with the same work based on the code, uncombined with any other library facilities.  This must be distributed under the terms of the Sections above.
+   a) Accompany the combined code with the same work based on the code, uncombined with any other library facilities.  This must be distributed under the terms of the Sections above.
 
-    b) Give prominent notice with the combined code of the fact that part of it is a work based on the Library, and explaining where to find the accompanying uncombined form of the same work.
+   b) Give prominent notice with the combined code of the fact that part of it is a work based on the Library, and explaining where to find the accompanying uncombined form of the same work.
 
   6. If you are going to use this license, use it in an unedited form. If the license is modified, the license can no longer be called The Open and Fair License. The name must be changed or removed.
 
@@ -113,10 +113,12 @@
 
   You should also get your employer (if you work as a programmer) or your school, if any, to sign a "copyright disclaimer" for the library, if necessary.  Here is a sample; alter the names:
 
-  Yoyodyne, Inc., hereby disclaims all copyright interest in the program `Frob' (a library for tweaking knobs) written by James Random Hacker.
+  ```
+  Yoyodyne, Inc., hereby disclaims all copyright interest in the program 'Frob' (a library for tweaking knobs) written by James Random Hacker.
 
   <signature of Ty Coon>, 15 August 1947
   
   Ty Coon, President of Vice
-
+  ```
+  
   That's all there is to it!
