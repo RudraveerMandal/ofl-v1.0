@@ -28,17 +28,17 @@
 
 ### TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, MODIFICATION AND COMMERCIALIZATION
 
-  0. This License Agreement applies to any software program which contains a notice placed by the copyright holder or other authorized party saying it may be distributed under the terms of this Open and Fair License (also called "this License"). Each licensee is addressed as "you".
+  0\. This License Agreement applies to any software program which contains a notice placed by the copyright holder or other authorized party saying it may be distributed under the terms of this Open and Fair License (also called "this License"). Each licensee is addressed as "you".
 
   "Source code" for a work means the preferred form of the work for making modifications to it.  For any software, complete source code means all the source code for all modules it contains, plus any associated interface definition files, plus the scripts used to control compilation and installation of the software.
 
   Activities other than copying, distribution, modification, commercialization are not covered by this License; they are outside its scope.  The act of running a program using the code is not restricted, and output from such a program is covered only if its contents constitute a work based on the code (independent of the use of the code in a tool for writing it).  Whether that is true depends on what the code does and what the program that uses the code does.
 
-  1. You may copy and distribute verbatim copies of the code's complete source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice and disclaimer of warranty; keep intact all the notices that refer to this License and to the absence of any warranty; and distribute a copy of this License along with the Library.
+  1\. You may copy and distribute verbatim copies of the code's complete source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice and disclaimer of warranty; keep intact all the notices that refer to this License and to the absence of any warranty; and distribute a copy of this License along with the Library.
 
   You cannot commercialize the code if you have not modified any parts of it. Only the creator of the code can monetize code that has no modifications to their original code.
 
-  2. You may modify your copy or copies of the code or any portion of it, thus forming a work based on the code, and copy and distribute such modifications or work under the terms of Section 1 above, provided that you also meet both of these conditions:
+  2\. You may modify your copy or copies of the code or any portion of it, thus forming a work based on the code, and copy and distribute such modifications or work under the terms of Section 1 above, provided that you also meet both of these conditions:
 
    a) You must cause the files modified to carry prominent notices stating that you changed the files and the date of any change.
 
@@ -48,11 +48,11 @@
 
   Thus, it is not the intent of this section to claim rights or contest your rights to work written entirely by you; rather, the intent is to exercise the right to control the distribution of derivative or collective works based on the code.
 
-  3. You may copy and distribute the code (or a portion or derivative of it, under Section 2) in object code or executable form under the terms of Sections 1 and 2 above provided that you accompany it with the complete corresponding machine-readable source code, which must be distributed under the terms of Sections 1 and 2 above on a medium customarily used for software interchange. The redistributed code must be commercialized by only the author if no modifications are made. If modifications are made, the code can only be commercialized once the rights are bought.
+  3\. You may copy and distribute the code (or a portion or derivative of it, under Section 2) in object code or executable form under the terms of Sections 1 and 2 above provided that you accompany it with the complete corresponding machine-readable source code, which must be distributed under the terms of Sections 1 and 2 above on a medium customarily used for software interchange. The redistributed code must be commercialized by only the author if no modifications are made. If modifications are made, the code can only be commercialized once the rights are bought.
 
   If distribution of object code is made by offering access to copy from a designated place, then offering equivalent access to copy the source code from the same place satisfies the requirement to distribute the source code, even though third parties are not compelled to copy the source along with the object code.
 
-  4. You must give prominent notice with each copy of the work that the code is used in it and that the code and its use are covered by this License.  You must supply a copy of this code.  If the work during execution displays copyright notices, you must include the copyright notice for other code among them, as well as a reference directing the user to the copy of this License.  Also, you must do one of these things:
+  4\. You must give prominent notice with each copy of the work that the code is used in it and that the code and its use are covered by this License.  You must supply a copy of this code.  If the work during execution displays copyright notices, you must include the copyright notice for other code among them, as well as a reference directing the user to the copy of this License.  Also, you must do one of these things:
 
    a) Accompany the work with the complete corresponding machine-readable source code for the code including whatever changes were used in the work (which must be distributed under Sections 1 and 2 above); and, if the work is an executable linked with the Library, with the complete machine-readable "work that uses the Library", as object code and/or source code, so that the user can modify the Library and then relink to produce a modified executable containing the modified Library.  (It is understood that the user who changes the contents of definitions files in the Library will not necessarily be able to recompile the application to use the modified definitions.) Use a suitable shared library mechanism for linking with the Library.
 
@@ -60,17 +60,17 @@
 
   For an executable, the required form of the "work that uses the code" must include any data and utility programs needed for reproducing the executable from it.  However, as a special exception, the materials to be distributed need not include anything that is normally distributed (in either source or binary form) with the major components (compiler, kernel, and so on) of the operating system on which the executable runs, unless that component itself accompanies the executable.
 
-  5. You may place library facilities that are a work based on the code side-by-side in a single library together with other library facilities not covered by this License, and distribute such a combined code, provided that the separate distribution of the work based on the Library and of the other library facilities is otherwise permitted, and provided that you do these two things:
+  5\. You may place library facilities that are a work based on the code side-by-side in a single library together with other library facilities not covered by this License, and distribute such a combined code, provided that the separate distribution of the work based on the Library and of the other library facilities is otherwise permitted, and provided that you do these two things:
 
    a) Accompany the combined code with the same work based on the code, uncombined with any other library facilities.  This must be distributed under the terms of the Sections above.
 
    b) Give prominent notice with the combined code of the fact that part of it is a work based on the Library, and explaining where to find the accompanying uncombined form of the same work.
 
-  6. If you are going to use this license, use it in an unedited form. If the license is modified, the license can no longer be called The Open and Fair License. The name must be changed or removed.
+  6\. If you are going to use this license, use it in an unedited form. If the license is modified, the license can no longer be called The Open and Fair License. The name must be changed or removed.
 
-  7. Each time you redistribute the code (or any work based on the code), the recipient automatically receives a license from the original licensor to copy, distribute, link with or modify the code subject to these terms and conditions.  You may not impose any further restrictions on the recipients' exercise of the rights granted herein. You are not responsible for enforcing compliance by third parties with this License.
+  7\. Each time you redistribute the code (or any work based on the code), the recipient automatically receives a license from the original licensor to copy, distribute, link with or modify the code subject to these terms and conditions.  You may not impose any further restrictions on the recipients' exercise of the rights granted herein. You are not responsible for enforcing compliance by third parties with this License.
 
-  8. If, as a consequence of a court judgment or allegation of patent infringement or for any other reason (not limited to patent issues), conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this License.  If you cannot distribute so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you may not distribute the code at all.  For example, if a patent license would not permit royalty-free redistribution of the code by all those who receive copies directly or indirectly through you, then the only way you could satisfy both it and this License would be to refrain entirely from distribution of the code.
+  8\. If, as a consequence of a court judgment or allegation of patent infringement or for any other reason (not limited to patent issues), conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this License.  If you cannot distribute so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you may not distribute the code at all.  For example, if a patent license would not permit royalty-free redistribution of the code by all those who receive copies directly or indirectly through you, then the only way you could satisfy both it and this License would be to refrain entirely from distribution of the code.
 
   If any portion of this section is held invalid or unenforceable under any particular circumstance, the balance of the section is intended to apply, and the section as a whole is intended to apply in other circumstances.
 
@@ -78,19 +78,19 @@
 
   This section is intended to make thoroughly clear what is believed to be a consequence of the rest of this License.
 
-  9. If the distribution and/or use of the code is restricted in certain countries either by patents or by copyrighted interfaces, the original copyright holder who places the code under this License may add an explicit geographical distribution limitation excluding those countries, so that distribution is permitted only in or among countries not thus excluded.  In such case, this License incorporates the limitation as if written in the body of this License.
+  9\. If the distribution and/or use of the code is restricted in certain countries either by patents or by copyrighted interfaces, the original copyright holder who places the code under this License may add an explicit geographical distribution limitation excluding those countries, so that distribution is permitted only in or among countries not thus excluded.  In such case, this License incorporates the limitation as if written in the body of this License.
 
-  10. Rudraveer Mandal may publish revised and/or new versions of the Open and Fair License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
+  10\. Rudraveer Mandal may publish revised and/or new versions of the Open and Fair License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
 
   Each version is given a distinguishing version number.  If the code specifies a version number of this License which applies to it and "any later version", you have the option of following the terms and conditions either of that version or of any later version published.  If the Library does not specify a license version number, you may choose any version ever published.
 
-  11. If the author of the code decides to change the license to any other open source license, he may do so without the consent of other contributors. But a change to a proprietary license must require a vote among the contributors with more than 50% of the votes agreeing to make the software proprietary.    
+  11\. If the author of the code decides to change the license to any other open source license, he may do so without the consent of other contributors. But a change to a proprietary license must require a vote among the contributors with more than 50% of the votes agreeing to make the software proprietary.    
 
 ### NO WARRANTY
 
-  12. BECAUSE THE CODE IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE CODE, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE CODE "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE CODE IS WITH YOU.  SHOULD THE CODE PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+  12\. BECAUSE THE CODE IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE CODE, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE CODE "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE CODE IS WITH YOU.  SHOULD THE CODE PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
-  13. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE CODE AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE CODE (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE LIBRARY TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+  13\. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE CODE AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE CODE (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE LIBRARY TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 ### END OF TERMS AND CONDITIONS
 
