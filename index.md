@@ -10,7 +10,7 @@
 
   It is nessecary to note that any mention of "free" in this license is used to designate both freedom of use and price.
 
-  The licenses for most software are designed to take away your freedom to share and change it.  But the open source licenses, make it hard to monetize your code. It allows huge companies to use your code in a proprietary program that earns them millions. By contrast, the Open and Fair License (OPL) is intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users, but also making sure your code does not get misused for commercial purposes.
+  The licenses for most software are designed to take away your freedom to share and change it.  But the open source licenses, make it hard to monetize your code. They allow huge companies to use your code in a proprietary program that earns them millions. By contrast, the Open and Fair License (OFL) is intended to guarantee your freedom to share and change free software--to make sure the software is free for all its users, but also making sure your code does not get misused for commercial purposes.
 
   When we speak of free software, we are referring to freedom of use, AND price. The Open and Fair License is designed to make sure that you have the freedom to distribute copies of free software (and charge for this service if you wish, but nobody else can commercialize your software); that you receive source code or can get it if you want it; that you can change the software and use pieces of it in new free programs; and that you are informed that you can do these things.
 
